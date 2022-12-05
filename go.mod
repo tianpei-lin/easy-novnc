@@ -1,4 +1,4 @@
-module github.com/pgaskin/easy-novnc
+module github.com/tianpei-lin/easy-novnc
 
 go 1.14
 
